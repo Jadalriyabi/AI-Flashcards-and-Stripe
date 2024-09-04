@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Description
+
+This AI FlashCards SaaS app combines cutting-edge technology with user-friendly design. Our app leverages the OpenAI API to dynamically generates personalized flashcards for your studying needs. Quickly and Easy. Hosted securely on AWS and managed via Firebase and Clerk, the app ensures data privacy and secure user authentication. React (Next.js) powers the responsive interfaces, while Vercel streamlines deployment. Whether you’re a student or a lifelong learner, our app aims to enhance knowledge retention by generating customized Flashcards to use on the go, whenever you want, giving you the edge in your classroom.
 
 ## Getting Started
 
